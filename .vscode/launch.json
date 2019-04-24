@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "text_analytics_spring.src.main.java.text_analytics_spring.text_analytics_spring.DemoApplication",
+            "projectName": "pohikursus_2kt_a29bed94"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Analytics.App",
+            "projectName": "text_analytics"
+        }
+    ]
+}

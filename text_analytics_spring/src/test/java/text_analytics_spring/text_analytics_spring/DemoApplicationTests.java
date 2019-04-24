@@ -1,4 +1,4 @@
-package text_analytics.text_analytics;
+package text_analytics_spring.text_analytics_spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

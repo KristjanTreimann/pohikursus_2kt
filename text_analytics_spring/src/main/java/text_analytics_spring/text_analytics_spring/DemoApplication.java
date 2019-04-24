@@ -1,4 +1,4 @@
-package text_analytics.text_analytics;
+package text_analytics_spring.src.main.java.text_analytics_spring.text_analytics_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
